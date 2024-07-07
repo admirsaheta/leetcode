@@ -14,7 +14,6 @@
 
 ### Planned languages:
 
-- Go
 - Java / Kotlin
 
 ### Solutions:
@@ -58,6 +57,12 @@
 - **Median of Two Sorted Arrays**
   - Runtime: 30ms -> Beats 64.17% submissions
   - Memory: 20.16mb -> Beats 53.10% submissions
+
+#### GoLang
+
+- **Water Bottles**
+  - Runtime: 1ms -> Beats 73.68% submissions
+  - Memory: 2.10mb -> Beats 68.42% submissions
 
 #### C
 
