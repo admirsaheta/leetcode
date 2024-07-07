@@ -64,6 +64,10 @@
   - Runtime: 1ms -> Beats 73.68% submissions
   - Memory: 2.10mb -> Beats 68.42% submissions
 
+- **Largest Dividable Subset**
+  - Runtime: 14ms -> Beats 71.05% submissions
+  - Memory: 2.92mb -> Beats 89.47% submissions
+
 #### C
 
 - **Remove nth node from end of list**
