@@ -53,6 +53,10 @@
   - Runtime: 6ms -> Beats 31.30% submissions
   - Memory: 2mb -> Beats 42.61% submissions
 
+- **Cherry Pickup II**
+  - Runtime: 14ms -> Beats 60.00% submissions
+  - Memory: 3.67mb -> Beats 40.00% submissions
+
 #### PHP
 
 - **Median of Two Sorted Arrays**
