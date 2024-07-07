@@ -6,6 +6,7 @@
 - TypeScript
 - Rust
 - PHP
+- Go
 
 ### Low-Level languages used:
 
@@ -74,6 +75,10 @@
   - Runtime: 4ms -> Beats 47.00% submissions
   - Memory: 5mb -> Beats 96.49% submissions
 
+- **Freedom Trail | Fallout 4**
+  - Runtime: 19ms -> Beats 25.64% submissions
+  - Memory: 7.14mb -> Beats 33.33% submissions
+
 #### C++
 
 - **Island Perimeter**
@@ -82,4 +87,14 @@
 
 ### Best performing language:
 
-- TypeScript
+- **Best Runtime**
+  - GoLang / Swift
+
+- **Best Memory Usage**
+  - Typescript
+
+- **Best Overall Performance**
+  - Swift
+
+
+
