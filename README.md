@@ -37,6 +37,10 @@
   - Runtime: 167ms -> Beats 89.47% submissions
   - Memory: 16mb -> Beats 86.47% submissions
 
+- **Longest Valid Parenthesis**
+  - Runtime: 4ms -> Beats 89.41% submissions
+  - Memory: 16mb -> Beats 87.06% submissions
+
 #### TypeScript
 
 - **Add Two Numbers**
@@ -68,6 +72,10 @@
 - **Cherry Pickup II**
   - Runtime: 14ms -> Beats 60.00% submissions
   - Memory: 3.67mb -> Beats 40.00% submissions
+
+- **First Missing Positive**
+  - Runtime: 3ms -> Beats 94.59% submissions
+  - Memory: 2.92mb -> Beats 64.00% submissions
 
 #### PHP
 
