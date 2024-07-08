@@ -124,13 +124,13 @@
 ### Best performing language:
 
 - **Best Runtime**
-  - GoLang / Swift
+  - Rust
 
 - **Best Memory Usage**
-  - Typescript
+  - Rust
 
 - **Best Overall Performance**
-  - Swift
+  - Rust
 
 
 
