@@ -95,7 +95,7 @@
 
 #### PL/PgSQL
 
-- **Island Perimeter**
+- **Trips and Users**
   - Runtime: 206ms -> Beats 73.03% submissions
 
 ### Best performing language:
