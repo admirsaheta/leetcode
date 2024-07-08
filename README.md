@@ -48,7 +48,11 @@
   - Memory: 55mb -> Beats 23.59% submissions
 
 - **Find the Winner**
-  - Runtime: 55ms -> Beats 78.30% submissions
+  - Runtime: 55ms -> Beats 98.33% submissions
+  - Memory: 54.55mb -> Beats 72.24% submissions
+
+- **Reverse Nodes in K Group**
+  - Runtime: 60ms -> Beats 78.30% submissions
   - Memory: 51.90mb -> Beats 51.35% submissions
 
 #### Rust
