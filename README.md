@@ -93,6 +93,11 @@
   - Runtime: 68ms -> Beats 76.16% submissions
   - Memory: 100mb -> Beats 53.28% submissions
 
+#### PL/PgSQL
+
+- **Island Perimeter**
+  - Runtime: 206ms -> Beats 73.03% submissions
+
 ### Best performing language:
 
 - **Best Runtime**
