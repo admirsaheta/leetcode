@@ -15,7 +15,7 @@
 
 ### Planned languages:
 
-- Java / Kotlin
+- Java
 
 ### Solutions:
 
@@ -97,6 +97,13 @@
 
 - **Trips and Users**
   - Runtime: 206ms -> Beats 73.03% submissions
+
+#### Kotlin
+
+- **Merge K Sorted Lists**
+  - Runtime: 215ms -> Beats 72.51% submissions
+  - Memory: 32mb -> Beats 66.52% submissions
+
 
 ### Best performing language:
 
