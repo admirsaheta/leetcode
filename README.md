@@ -33,6 +33,10 @@
   - Runtime: 19ms -> Beats 77.27% submissions
   - Memory: 16mb -> Beats 74.43% submissions
 
+- **Substring with concatention of all words**
+  - Runtime: 167ms -> Beats 89.47% submissions
+  - Memory: 16mb -> Beats 86.47% submissions
+
 #### TypeScript
 
 - **Add Two Numbers**
