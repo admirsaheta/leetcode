@@ -47,6 +47,10 @@
   - Runtime: 82ms -> Beats 60.00% submissions
   - Memory: 55mb -> Beats 23.59% submissions
 
+- **Find the Winner**
+  - Runtime: 55ms -> Beats 78.30% submissions
+  - Memory: 51.90mb -> Beats 51.35% submissions
+
 #### Rust
 
 - **Distinct Subsequences**
