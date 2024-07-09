@@ -7,6 +7,7 @@
 - Rust
 - PHP
 - Go
+- Kotlin
 
 ### Low-Level languages used:
 
@@ -58,6 +59,10 @@
 - **Reverse Nodes in K Group**
   - Runtime: 60ms -> Beats 78.30% submissions
   - Memory: 51.90mb -> Beats 51.35% submissions
+
+- **Average Waiting Time**
+  - Runtime: 110ms -> Beats 60.80% submissions
+  - Memory: 72.77 -> Beats 26.09% submissions
 
 #### Rust
 
@@ -127,7 +132,7 @@
   - Rust
 
 - **Best Memory Usage**
-  - Rust
+  - C
 
 - **Best Overall Performance**
   - Rust
