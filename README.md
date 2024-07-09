@@ -8,15 +8,12 @@
 - PHP
 - Go
 - Kotlin
+- Java
 
 ### Low-Level languages used:
 
 - C
 - C++
-
-### Planned languages:
-
-- Java
 
 ### Solutions:
 
@@ -124,6 +121,12 @@
 - **Merge K Sorted Lists**
   - Runtime: 215ms -> Beats 72.51% submissions
   - Memory: 32mb -> Beats 66.52% submissions
+
+#### Java
+
+- **Trapping Rain Water**
+  - Runtime: 1ms -> Beats 69.43% submissions
+  - Memory: 46mb -> Beats 37.07% submissions
 
 
 ### Best performing language:
