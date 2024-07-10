@@ -79,6 +79,10 @@
   - Runtime: 3ms -> Beats 94.59% submissions
   - Memory: 2.92mb -> Beats 64.00% submissions
 
+- **First Missing Positive**
+  - Runtime: 1ms -> Beats 90.00% submissions
+  - Memory: 2.19mb -> Beats 40.00% submissions
+
 #### PHP
 
 - **Median of Two Sorted Arrays**
