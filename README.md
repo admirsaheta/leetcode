@@ -83,6 +83,10 @@
   - Runtime: 1ms -> Beats 90.00% submissions
   - Memory: 2.19mb -> Beats 40.00% submissions
 
+- **N Queens**
+  - Runtime: 2ms -> Beats 65.81% submissions
+  - Memory: 2.19mb -> Beats 100.00% submissions
+
 #### PHP
 
 - **Median of Two Sorted Arrays**
