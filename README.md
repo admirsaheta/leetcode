@@ -87,6 +87,10 @@
   - Runtime: 2ms -> Beats 65.81% submissions
   - Memory: 2.19mb -> Beats 100.00% submissions
 
+- **Reverse Substring Between Each Pair of Parentheses**
+  - Runtime: 0ms -> Beats 100.00% submissions
+  - Memory: 2.13mb -> Beats 100.00% submissions
+
 #### PHP
 
 - **Median of Two Sorted Arrays**
