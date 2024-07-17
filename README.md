@@ -97,6 +97,10 @@
   - Runtime: 30ms -> Beats 64.17% submissions
   - Memory: 20.16mb -> Beats 53.10% submissions
 
+- **Delete node and return forest**
+  - Runtime: 14ms -> Beats 100.00% submissions
+  - Memory: 20.36mb -> Beats 100.00% submissions
+
 #### GoLang
 
 - **Water Bottles**
